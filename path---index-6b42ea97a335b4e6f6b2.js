@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{507:function(e,t){e.exports={data:{site:{siteMetadata:{title:"IS4300"}},allMarkdownRemark:{edges:[{node:{excerpt:"Travel Planner Planning a trip is hard and time-consuming. Travel Planner helps you organize all of the important information that you need…",fields:{slug:"/project-brainstorming/"},frontmatter:{date:"11 September, 2018",title:"HW1 - Project Brainstorming"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-6b42ea97a335b4e6f6b2.js.map
