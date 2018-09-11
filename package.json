@@ -1,11 +1,8 @@
 {
-  "name": "gatsby-starter-blog",
-  "description": "Starter Gatsby Blog",
+  "name": "is4300",
+  "description": "IS4300 blog",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby-starter-blog/issues"
-  },
+  "author": "Nola Chen <nolachen@gmail.com>",
   "dependencies": {
     "gatsby": "^1.9.250",
     "gatsby-link": "^1.6.39",

@@ -3,7 +3,7 @@ module.exports = {
     title: 'IS4300',
     author: 'Nola Chen',
     description: 'IS4300 blog',
-    siteUrl: 'https://gatsbyjs.github.io/gatsby-starter-blog/',
+    siteUrl: 'nolachen.com/IS4300/',
   },
   pathPrefix: '/IS4300',
   plugins: [
