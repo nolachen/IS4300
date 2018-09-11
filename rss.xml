@@ -1,15 +1,120 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[IS4300]]></title><description><![CDATA[IS4300 blog]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 11 Sep 2018 13:50:22 GMT</lastBuildDate><item><title><![CDATA[HW1 - Project Brainstorming]]></title><description><![CDATA[Travel Planner Planning a trip is hard and time-consuming. Travel Planner helps you organize all of the important information that you need…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//project-brainstorming/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//project-brainstorming/</guid><pubDate>Tue, 11 Sep 2018 00:00:00 GMT</pubDate><content:encoded>&lt;ol&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[IS4300]]></title><description><![CDATA[IS4300 blog]]></description><link>nolachen.com/IS4300/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 11 Sep 2018 15:31:21 GMT</lastBuildDate><item><title><![CDATA[HW1 - Project Brainstorming]]></title><description><![CDATA[Travel Planner Planning a trip is hard and time-consuming. Travel Planner helps you organize all of the important information that you need…]]></description><link>nolachen.com/IS4300//project-brainstorming/</link><guid isPermaLink="false">nolachen.com/IS4300//project-brainstorming/</guid><pubDate>Tue, 11 Sep 2018 00:00:00 GMT</pubDate><content:encoded>&lt;ol&gt;
 &lt;li&gt;Travel Planner&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Planning a trip is hard and time-consuming. Travel Planner helps you organize all of the important information that you need to have an enjoyable trip. You can map out places of interest, put them on a timeline, and create itineraries. The application is especially great for road trips, where timing and planning is even more important to get from one destination to the next. Travel Planner can also suggest efficient routes and attractions for your trip, given that you have limited time to explore a new place. For example, to plan a weeklong road trip around Iceland, you could visualize hundreds of interesting places, but know that you can’t get to all of them — then Travel Planner could help you decide which ones make the most sense to visit!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;./travel-planner.jpg&quot; alt=&quot;travel planner&quot;&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/IS4300/static/travel-planner-3c8768809f2d43129b64df1f127739bf-e32c4.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 70.73588134626354%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAe7NUA//xAAVEAEBAAAAAAAAAAAAAAAAAAAgQf/aAAgBAQABBQKn/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGRAAAgMBAAAAAAAAAAAAAAAAECEAARFB/9oACAEBAAE/IYrrGM//2gAMAwEAAgADAAAAEGDP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGxAAAgIDAQAAAAAAAAAAAAAAAREAMRAhUUH/2gAIAQEAAT8QJ2Lownsg64Klp8iHMf/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;travel planner&quot;
+        title=&quot;&quot;
+        src=&quot;/IS4300/static/travel-planner-3c8768809f2d43129b64df1f127739bf-f8fb9.jpg&quot;
+        srcset=&quot;/IS4300/static/travel-planner-3c8768809f2d43129b64df1f127739bf-e8976.jpg 148w,
+/IS4300/static/travel-planner-3c8768809f2d43129b64df1f127739bf-63df2.jpg 295w,
+/IS4300/static/travel-planner-3c8768809f2d43129b64df1f127739bf-f8fb9.jpg 590w,
+/IS4300/static/travel-planner-3c8768809f2d43129b64df1f127739bf-85e3d.jpg 885w,
+/IS4300/static/travel-planner-3c8768809f2d43129b64df1f127739bf-d1924.jpg 1180w,
+/IS4300/static/travel-planner-3c8768809f2d43129b64df1f127739bf-e32c4.jpg 1753w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
 &lt;ol start=&quot;2&quot;&gt;
 &lt;li&gt;Cheap Eats&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Sometimes, you get a craving for a very specific food but don’t want to spend a lot of money to satisfy that craving. Cheap Eats will help you find the cheapest options for that one dish you can’t stop thinking about! For example, if you have a 2 AM craving for soup dumplings, you can search for “soup dumplings” in your location and the app will display the cheapest dumplings using menu data from nearby restaurants. You then have the option to order those dumplings, or reject that restaurant for the next cheapest option.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;./cheap-eats.jpg&quot; alt=&quot;cheap eats&quot;&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/IS4300/static/cheap-eats-b68cbc9ffc1ce74db48a3d2e0a0be9d6-0aef3.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 141.37096774193546%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAcABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAe7ZSgw1k2g//8QAGBAAAgMAAAAAAAAAAAAAAAAAARAAESD/2gAIAQEAAQUC0YHS/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAFBABAAAAAAAAAAAAAAAAAAAAMP/aAAgBAQAGPwJP/8QAGhABAAIDAQAAAAAAAAAAAAAAAQARECBBMf/aAAgBAQABPyFrrDDXYJqsp5Aoon//2gAMAwEAAgADAAAAEOMNDP/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8QH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8QH//EAB4QAQABBAIDAAAAAAAAAAAAAAEAEBEhMWGBQVGx/9oACAEBAAE/EGG6HEV9UYduoxQdc0xT1PJ+026hYcs8wi0E/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;cheap eats&quot;
+        title=&quot;&quot;
+        src=&quot;/IS4300/static/cheap-eats-b68cbc9ffc1ce74db48a3d2e0a0be9d6-f8fb9.jpg&quot;
+        srcset=&quot;/IS4300/static/cheap-eats-b68cbc9ffc1ce74db48a3d2e0a0be9d6-e8976.jpg 148w,
+/IS4300/static/cheap-eats-b68cbc9ffc1ce74db48a3d2e0a0be9d6-63df2.jpg 295w,
+/IS4300/static/cheap-eats-b68cbc9ffc1ce74db48a3d2e0a0be9d6-f8fb9.jpg 590w,
+/IS4300/static/cheap-eats-b68cbc9ffc1ce74db48a3d2e0a0be9d6-85e3d.jpg 885w,
+/IS4300/static/cheap-eats-b68cbc9ffc1ce74db48a3d2e0a0be9d6-d1924.jpg 1180w,
+/IS4300/static/cheap-eats-b68cbc9ffc1ce74db48a3d2e0a0be9d6-0aef3.jpg 1240w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
 &lt;ol start=&quot;3&quot;&gt;
 &lt;li&gt;Time Tracker&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Time management can be tricky, especially for college students. With Time Tracker, you can visualize exactly where all of your time has been spent. The application utilizes location data to track where you go and how much you spend at places you frequent, as well as tracking how much time is spent on different websites you visit. You can also manually enter activities that you do. For example, you can track how much time you spend sleeping, eating, and on the computer (which can be further broken down by website). The goal of this application is to give the user a better understanding of how they spend their time.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;./time-tracker.jpg&quot; alt=&quot;time tracker&quot;&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/IS4300/static/time-tracker-3739c7193fe7036e06f89a63ae99e389-0aef3.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 141.37096774193546%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAcABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIBBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAe9jCkisoSof/8QAFxAAAwEAAAAAAAAAAAAAAAAAARAgEf/aAAgBAQABBQIszkf/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAUEAEAAAAAAAAAAAAAAAAAAAAw/9oACAEBAAY/Ak//xAAbEAADAAIDAAAAAAAAAAAAAAAAAREgMUFxof/aAAgBAQABPyHQTGeBUd5HonQ6w//aAAwDAQACAAMAAAAQMMww/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPxAf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPxAf/8QAHBABAAMBAAMBAAAAAAAAAAAAAQARITFBUWGB/9oACAEBAAE/EFV9/OzY1bfLFvYFKagYBGosZv5GGuQAX17qXRusiWSrNWBRP//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;time tracker&quot;
+        title=&quot;&quot;
+        src=&quot;/IS4300/static/time-tracker-3739c7193fe7036e06f89a63ae99e389-f8fb9.jpg&quot;
+        srcset=&quot;/IS4300/static/time-tracker-3739c7193fe7036e06f89a63ae99e389-e8976.jpg 148w,
+/IS4300/static/time-tracker-3739c7193fe7036e06f89a63ae99e389-63df2.jpg 295w,
+/IS4300/static/time-tracker-3739c7193fe7036e06f89a63ae99e389-f8fb9.jpg 590w,
+/IS4300/static/time-tracker-3739c7193fe7036e06f89a63ae99e389-85e3d.jpg 885w,
+/IS4300/static/time-tracker-3739c7193fe7036e06f89a63ae99e389-d1924.jpg 1180w,
+/IS4300/static/time-tracker-3739c7193fe7036e06f89a63ae99e389-0aef3.jpg 1240w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item></channel></rss>
