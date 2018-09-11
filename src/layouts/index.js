@@ -30,7 +30,7 @@ class Template extends React.Component {
             }}
             to={'/'}
           >
-            Gatsby Starter Blog
+            IS4300 - Nola Chen
           </Link>
         </h1>
       )
@@ -51,7 +51,7 @@ class Template extends React.Component {
             }}
             to={'/'}
           >
-            Gatsby Starter Blog
+            IS4300 - Nola Chen
           </Link>
         </h3>
       )
