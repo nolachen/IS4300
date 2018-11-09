@@ -21,8 +21,8 @@
       "component---src-layouts-index-js-2a33ca0eccdfbd2d978a.js.map"
     ],
     "path---index": [
-      "path---index-6b42ea97a335b4e6f6b2.js",
-      "path---index-6b42ea97a335b4e6f6b2.js.map"
+      "path---index-4d301962ff54e5ee8ad0.js",
+      "path---index-4d301962ff54e5ee8ad0.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -43,9 +43,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-5a1d18582149edeed9a9.js",
+      "app-fe5a034f79b52fbb4423.js",
       "build-js-styles.css",
-      "app-5a1d18582149edeed9a9.js.map",
+      "app-fe5a034f79b52fbb4423.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
@@ -53,8 +53,12 @@
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---project-brainstorming": [
-      "path---project-brainstorming-dec35777c98b63c2fd7e.js",
-      "path---project-brainstorming-dec35777c98b63c2fd7e.js.map"
+      "path---project-brainstorming-517a7c7c85fab6b43bac.js",
+      "path---project-brainstorming-517a7c7c85fab6b43bac.js.map"
+    ],
+    "path---heuristic-evaluation": [
+      "path---heuristic-evaluation-2eef27b337706d7010ba.js",
+      "path---heuristic-evaluation-2eef27b337706d7010ba.js.map"
     ]
   }
 }
