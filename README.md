@@ -5,4 +5,4 @@ IS4300 @ Northeastern: Human Computer Interaction
 `gatsby develop`
 
 ## Deploying to github pages
-`gatsby deploy`
+`npm run deploy`
